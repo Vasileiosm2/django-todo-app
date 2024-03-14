@@ -1,0 +1,2 @@
+-e DATABASE_NAME=django_todo -e DATABASE_USER=vasileiosm -e DATABASE_PASSWORD=261181olE*# -e DATABASE_HOST=my-postgres -e DATABASE_PORT=5432
+
